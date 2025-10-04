@@ -1,4 +1,4 @@
-# Assignment 2 — Pair 4 (Heaps)
+# Assignment 2 — Pair 4Нап
 
 This repo contains **MinHeap** (with `decreaseKey`, `merge`) and **MaxHeap** (with `increaseKey`, `extractMax`), test suite, and a CLI benchmark that exports CSV for plots.
 
